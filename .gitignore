@@ -61,5 +61,5 @@ typings/
 .next
 
 # misc
-./dist
+/dist
 .DS_store
